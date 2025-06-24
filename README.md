@@ -11,9 +11,9 @@ Ce contrôleur permet de **piloter à distance** le module vibrant via une **con
 
 ### 🔩 Boîtier imprimé en 3D
 
-- Boîtier haut (PLA)
-- Boîtier bas (PLA)
-- Plaque de fixation des composants (PLA)
+- Capot (PLA)
+- Base (PLA)
+- Porte_composants (PLA)
 - 8 vis M3 L10 tête fraisée  
   🔗 [Réf. RS Online](https://fr.rs-online.com/web/p/vis-a-metaux/9087485)
 
@@ -73,7 +73,7 @@ Inclura :
 
 ## 🔄 Schéma de la Machine à États
 
-📈 *À insérer ici sous forme d’image ou de diagramme Markdown*
+![image](https://github.com/user-attachments/assets/03921408-3648-4b7a-ae5b-b0afdf741081)
 
 ---
 
