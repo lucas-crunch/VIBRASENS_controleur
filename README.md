@@ -1,5 +1,3 @@
-# VIBRASENS_controleur
-
 # 🎮 VIBRASENS_controller
 
 **VIBRASENS_controller** est le contrôleur sans fil du système **VIBRASENS**, un dispositif de stimulation vibratoire destiné aux enfants en situation de polyhandicap.  
