@@ -31,6 +31,16 @@ Ce contrôleur permet de **piloter à distance** le module vibrant via une **con
 
 ---
 
+## 🧾 Instructions de Montage
+
+Les instructions de montage se trouve dans **documents_techniques** et se résume en : 
+- Assemblage des composants électronique et mécanique
+- Câblage des composants 
+
+![image](https://github.com/user-attachments/assets/af71a602-d572-49e3-a598-3a5eb67b4512)
+
+---
+
 ## ⚙️ Fonctionnalités de la Télécommande
 
 Le contrôleur permet de régler plusieurs paramètres importants du module vibrant :
@@ -59,23 +69,11 @@ Le contrôleur permet de régler plusieurs paramètres importants du module vibr
 - Réglage via la **molette basse** de la télécommande.
 
 ---
-
-## 🧾 Instructions de Montage
-
-📷 *Notice illustrée avec photos à venir*
-
-Inclura :
-- Étapes d'assemblage mécanique
-- Câblage des modules M5
-- Configuration initiale du M5StickC Plus 2
-
----
-
 ## 🔄 Schéma de la Machine à États
 
 ![image](https://github.com/user-attachments/assets/03921408-3648-4b7a-ae5b-b0afdf741081)
 
----
+--- 
 
 ## 📂 Arborescence du dépôt
 
