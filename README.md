@@ -37,8 +37,6 @@ Les instructions de montage se trouve dans **documents_techniques** et se résum
 - Assemblage des composants électronique et mécanique
 - Câblage des composants 
 
-![image](https://github.com/user-attachments/assets/af71a602-d572-49e3-a598-3a5eb67b4512)
-
 ---
 
 ## ⚙️ Fonctionnalités de la Télécommande
@@ -67,6 +65,8 @@ Le contrôleur permet de régler plusieurs paramètres importants du module vibr
 - **Plage** : de **0 ms** (vibration continue) à **2000 ms** (mode pulsé).
 - Exemple : à 1000 ms, le module vibre pendant 1000 ms, puis s’arrête 1000 ms, etc.
 - Réglage via la **molette basse** de la télécommande.
+
+![image](https://github.com/user-attachments/assets/af71a602-d572-49e3-a598-3a5eb67b4512)
 
 ---
 ## 🔄 Schéma de la Machine à États
