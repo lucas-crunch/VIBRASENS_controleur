@@ -37,6 +37,15 @@ Les instructions de montage se trouve dans **documents_techniques** et se résum
 
 ---
 
+## 💻 Instructions de Programmation
+
+Les instructions de programmation se trouve dans **documents_techniques** et se résume en : 
+- Télécharger les différents logiciels (VSCode, Git, etc.)
+- Installer les extensions (PlatformIO)
+- Téléverser le code au M5StickC
+
+---
+
 ## ⚙️ Fonctionnalités de la Télécommande
 
 Le contrôleur permet de régler plusieurs paramètres importants du module vibrant :
